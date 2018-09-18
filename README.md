@@ -6,6 +6,19 @@ Django source is licensed under AGPLv3
 Gandham DB is licensed Under GPLv3
 
 
+Malayalam Grandham is a project intended to make available reliable bibliographic information on all Malayalam books published in Kerala and elsewhere. This Open data set contains Complete bibliography data from first Impression to 1995. This project wants to add following features to Malayalagrandham DB and build it as a bibliography web service
+
+Facility for adding/linking copyright expired books to malaylagrandha vivaram
+Adding ISBN & ISBN based seller discovery
+Building Interface for Publishers through with they can contribute their publication bibliography .
+Similar module for Libraries . That will be added to found in library section of each book
+A module for building qr code of bibliography with a malayalagrandham link
+Crowd sourced way for input and an approval queue interface for submissions.
+MARC21 and MARCXML support
+A dynamic visualisation interface for book information browsing
+proper API , and app work flow documentation
+
+
 File structure
 --------------
 
